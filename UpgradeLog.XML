@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Beren">
+</Property><Property Name="Solution File" Value="C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\Beren.sln">
+</Property><Property Name="Date" Value="Friday, April 24, 2015">
+</Property><Property Name="Time" Value="21:12:04 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Beren" Source="Beren.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Beren" Source="Beren.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="" Source="Beren.csproj" Description="The project file 'C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\Beren.csproj' cannot be opened.&#xA;&#xA;The project type is not supported by this installation.">
+</Event></UpgradeLog>

@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\MaleHuman.png</Source>
+      <Name>Sprites\MaleHuman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\MaleHuman.xnb</Output>
+      <Time>2010-05-21T16:30:39.0684-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\background.png</Source>
+      <Name>Sprites\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\background.xnb</Output>
+      <Time>2010-05-21T14:19:17.7814-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Jelly.png</Source>
+      <Name>Sprites\Jelly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Jelly.xnb</Output>
+      <Time>2010-05-21T16:30:39.0654-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\wall1.png</Source>
+      <Name>Sprites\wall1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\wall1.xnb</Output>
+      <Time>2010-05-21T16:30:39.0734-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\DialogBox.png</Source>
+      <Name>Sprites\DialogBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\DialogBox.xnb</Output>
+      <Time>2010-05-22T02:13:20.835-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\tree.png</Source>
+      <Name>Sprites\tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\tree.xnb</Output>
+      <Time>2010-05-22T15:12:19.565-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\empty.png</Source>
+      <Name>Sprites\empty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\empty.xnb</Output>
+      <Time>2010-05-22T15:32:45.788-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\A.jpg</Source>
+      <Name>Sprites\A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\A.xnb</Output>
+      <Time>2011-08-09T01:07:48.7235841-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\B.jpg</Source>
+      <Name>Sprites\B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\B.xnb</Output>
+      <Time>2011-08-09T01:08:20.3753945-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\C.jpg</Source>
+      <Name>Sprites\C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\C.xnb</Output>
+      <Time>2011-08-09T01:08:37.011346-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\D.jpg</Source>
+      <Name>Sprites\D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\D.xnb</Output>
+      <Time>2011-08-09T01:08:55.7034151-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\E.jpg</Source>
+      <Name>Sprites\E</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\E.xnb</Output>
+      <Time>2011-08-09T01:09:15.5195485-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\F.jpg</Source>
+      <Name>Sprites\F</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\F.xnb</Output>
+      <Time>2011-08-09T01:09:30.441402-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\G.jpg</Source>
+      <Name>Sprites\G</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\G.xnb</Output>
+      <Time>2011-08-09T01:09:44.6162128-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\H.jpg</Source>
+      <Name>Sprites\H</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\H.xnb</Output>
+      <Time>2011-08-09T01:09:56.5818972-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\I.jpg</Source>
+      <Name>Sprites\I</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\I.xnb</Output>
+      <Time>2011-08-09T01:11:02.7556821-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\J.jpg</Source>
+      <Name>Sprites\J</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\J.xnb</Output>
+      <Time>2011-08-09T01:11:34.7415116-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\K.jpg</Source>
+      <Name>Sprites\K</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\K.xnb</Output>
+      <Time>2011-08-09T01:11:49.9223799-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\L.jpg</Source>
+      <Name>Sprites\L</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\L.xnb</Output>
+      <Time>2011-08-09T01:12:06.6003338-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\M.jpg</Source>
+      <Name>Sprites\M</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\M.xnb</Output>
+      <Time>2011-08-09T01:12:24.5653613-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\N.jpg</Source>
+      <Name>Sprites\N</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\N.xnb</Output>
+      <Time>2011-08-09T01:12:39.9122391-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\O.jpg</Source>
+      <Name>Sprites\O</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\O.xnb</Output>
+      <Time>2011-08-09T01:12:56.5841927-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\P.jpg</Source>
+      <Name>Sprites\P</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\P.xnb</Output>
+      <Time>2011-08-09T01:13:40.4287005-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Q.jpg</Source>
+      <Name>Sprites\Q</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Q.xnb</Output>
+      <Time>2011-08-09T01:13:54.791522-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\R.jpg</Source>
+      <Name>Sprites\R</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\R.xnb</Output>
+      <Time>2011-08-09T01:14:07.9372739-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\S.jpg</Source>
+      <Name>Sprites\S</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\S.xnb</Output>
+      <Time>2011-08-09T01:14:32.573683-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\T.jpg</Source>
+      <Name>Sprites\T</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\T.xnb</Output>
+      <Time>2011-08-09T01:15:12.7929834-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\U.jpg</Source>
+      <Name>Sprites\U</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\U.xnb</Output>
+      <Time>2011-08-09T01:15:25.6387181-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\V.jpg</Source>
+      <Name>Sprites\V</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\V.xnb</Output>
+      <Time>2011-08-09T01:15:47.1209468-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\W.jpg</Source>
+      <Name>Sprites\W</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\W.xnb</Output>
+      <Time>2011-08-09T01:16:03.8489036-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\X.jpg</Source>
+      <Name>Sprites\X</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\X.xnb</Output>
+      <Time>2011-08-09T01:16:21.5059135-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Y.jpg</Source>
+      <Name>Sprites\Y</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Y.xnb</Output>
+      <Time>2011-08-09T01:16:49.8865368-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Z.jpg</Source>
+      <Name>Sprites\Z</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Z.xnb</Output>
+      <Time>2011-08-09T01:17:08.4235971-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T11:13:52-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-05-19T17:48:36.753-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Beren">
+</Property><Property Name="Solution File" Value="C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\Beren.sln">
+</Property><Property Name="Date" Value="Friday, April 24, 2015">
+</Property><Property Name="Time" Value="21:22:21 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property><Property Name="Solution" Value="Beren">
+</Property><Property Name="Solution File" Value="C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\Beren.sln">
+</Property><Property Name="Date" Value="Friday, April 24, 2015">
+</Property><Property Name="Time" Value="21:22:25 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Beren" Source="Beren.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Beren" Source="Beren.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Beren" Source="Beren.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Beren" Source="Beren.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Beren" Source="Beren.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="BerenContent" Source="Content\BerenContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

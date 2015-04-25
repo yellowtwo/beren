@@ -1,0 +1,8 @@
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\VSProjects\Beren\Beren\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\BerenOld\Beren\Beren\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\Content\obj\x86\Debug\ResolveAssemblyReference.cache

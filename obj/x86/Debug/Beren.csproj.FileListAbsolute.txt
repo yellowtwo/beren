@@ -1,0 +1,213 @@
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Content\Sprites\MaleHuman.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Beren.exe
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Beren.pdb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\obj\x86\Debug\Beren.exe
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\obj\x86\Debug\Beren.pdb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Content\Sprites\background.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Content\Sprites\Jelly.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Content\Sprites\wall1.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Content\Sprites\DialogBox.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\VSProjects\Beren\Beren\bin\x86\Debug\Content\Sprites\MaleHuman.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\VSProjects\Beren\Beren\bin\x86\Debug\Content\Sprites\background.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\VSProjects\Beren\Beren\bin\x86\Debug\Content\Sprites\Jelly.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\VSProjects\Beren\Beren\bin\x86\Debug\Content\Sprites\wall1.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\VSProjects\Beren\Beren\bin\x86\Debug\Content\Sprites\DialogBox.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\VSProjects\Beren\Beren\bin\x86\Debug\Beren.exe
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\VSProjects\Beren\Beren\bin\x86\Debug\Beren.pdb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\VSProjects\Beren\Beren\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\VSProjects\Beren\Beren\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\VSProjects\Beren\Beren\obj\x86\Debug\Beren.exe
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\VSProjects\Beren\Beren\obj\x86\Debug\Beren.pdb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Content\Sprites\tree.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Content\Sprites\empty.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Content\Sprites\MaleHuman.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Content\Sprites\background.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Content\Sprites\Jelly.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Content\Sprites\wall1.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Content\Sprites\DialogBox.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Content\Sprites\tree.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Content\Sprites\empty.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Beren.exe
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\bin\x86\Debug\Beren.pdb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\obj\x86\Debug\Beren.exe
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\obj\x86\Debug\Beren.pdb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\BerenOld\Beren\Beren\bin\x86\Debug\Content\Sprites\MaleHuman.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\BerenOld\Beren\Beren\bin\x86\Debug\Content\Sprites\background.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\BerenOld\Beren\Beren\bin\x86\Debug\Content\Sprites\Jelly.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\BerenOld\Beren\Beren\bin\x86\Debug\Content\Sprites\wall1.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\BerenOld\Beren\Beren\bin\x86\Debug\Content\Sprites\DialogBox.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\BerenOld\Beren\Beren\bin\x86\Debug\Content\Sprites\tree.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\BerenOld\Beren\Beren\bin\x86\Debug\Content\Sprites\empty.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\BerenOld\Beren\Beren\bin\x86\Debug\Beren.exe
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\BerenOld\Beren\Beren\bin\x86\Debug\Beren.pdb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\BerenOld\Beren\Beren\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\BerenOld\Beren\Beren\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\BerenOld\Beren\Beren\obj\x86\Debug\Beren.exe
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\BerenOld\Beren\Beren\obj\x86\Debug\Beren.pdb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Sprites\MaleHuman.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Sprites\background.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Sprites\Jelly.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Sprites\wall1.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Sprites\DialogBox.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Sprites\tree.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Sprites\empty.xnb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Beren.exe
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Beren.pdb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\obj\x86\Debug\Beren.exe
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\obj\x86\Debug\Beren.pdb
+C:\Users\Brandon\Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Data\maps.txt
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\obj\x86\Debug\Beren.exe
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Sprites\MaleHuman.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Sprites\background.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Sprites\Jelly.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Sprites\wall1.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Sprites\DialogBox.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Sprites\tree.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Sprites\empty.xnb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Content\Data\maps.txt
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Beren.exe
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\bin\x86\Debug\Beren.pdb
+C:\Documents and Settings\Brandon\My Documents\Visual Studio 2008\Projects\Beren\Beren\Beren\obj\x86\Debug\Beren.pdb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\MaleHuman.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\background.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Jelly.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\wall1.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\DialogBox.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\tree.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\empty.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Data\maps.txt
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Beren.exe
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Beren.pdb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\obj\x86\Debug\Beren.exe
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\obj\x86\Debug\Beren.pdb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\obj\x86\Debug\Beren.exe
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\obj\x86\Debug\Beren.pdb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\MaleHuman.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\background.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Jelly.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\wall1.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\DialogBox.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\tree.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\empty.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Data\maps.txt
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Beren.exe
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Beren.pdb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\A.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\B.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\C.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\D.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\E.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\F.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\G.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\H.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\I.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\J.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\K.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\L.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\M.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\N.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\O.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\P.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Q.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\R.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\S.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\T.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\U.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\V.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\W.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\X.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Y.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Z.xnb
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Beren.exe.manifest
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Beren.application
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\obj\x86\Debug\Beren.exe.manifest
+C:\Users\Brandon\Documents\My Dropbox\Beren Project\Beren\obj\x86\Debug\Beren.application
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\A.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\B.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\C.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\D.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\E.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\F.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\G.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\H.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\I.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\J.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\K.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\L.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\M.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\N.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\O.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\P.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Q.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\R.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\S.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\T.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\U.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\V.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\W.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\X.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Y.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Z.xnb
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Beren.exe.manifest
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\bin\x86\Debug\Beren.application
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\obj\x86\Debug\Beren.exe.manifest
+C:\Documents and Settings\Brandon\My Documents\My Dropbox\Beren Project\Beren\obj\x86\Debug\Beren.application
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\obj\x86\Debug\Beren.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\obj\x86\Debug\Beren.exe
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\MaleHuman.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\background.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Jelly.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\wall1.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\DialogBox.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\tree.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\empty.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\A.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\B.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\C.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\D.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\E.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\F.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\G.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\H.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\I.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\J.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\K.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\L.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\M.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\N.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\O.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\P.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Q.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\R.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\S.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\T.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\U.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\V.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\W.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\X.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Y.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Z.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Data\maps.txt
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Beren.exe.manifest
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Beren.application
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Beren.exe
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Beren.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\obj\x86\Debug\Beren.exe.manifest
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\obj\x86\Debug\Beren.application
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\obj\x86\Debug\Beren.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\MaleHumanDown.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\MaleHumanRight.xnb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\MaleHumanUp.xnb

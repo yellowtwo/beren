@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\MaleHuman.png</Source>
+      <Name>Sprites\MaleHuman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\MaleHuman.xnb</Output>
+      <Time>2010-05-21T23:30:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\background.png</Source>
+      <Name>Sprites\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\background.xnb</Output>
+      <Time>2010-05-21T21:19:16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Jelly.png</Source>
+      <Name>Sprites\Jelly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Jelly.xnb</Output>
+      <Time>2010-05-21T23:30:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\wall1.png</Source>
+      <Name>Sprites\wall1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\wall1.xnb</Output>
+      <Time>2010-05-21T23:30:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\DialogBox.png</Source>
+      <Name>Sprites\DialogBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\DialogBox.xnb</Output>
+      <Time>2010-05-22T09:13:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\tree.png</Source>
+      <Name>Sprites\tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\tree.xnb</Output>
+      <Time>2010-05-22T22:12:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\empty.png</Source>
+      <Name>Sprites\empty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\empty.xnb</Output>
+      <Time>2010-05-22T22:32:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\A.jpg</Source>
+      <Name>Sprites\A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\A.xnb</Output>
+      <Time>2011-08-09T08:07:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\B.jpg</Source>
+      <Name>Sprites\B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\B.xnb</Output>
+      <Time>2011-08-09T08:08:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\C.jpg</Source>
+      <Name>Sprites\C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\C.xnb</Output>
+      <Time>2011-08-09T08:08:36-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\D.jpg</Source>
+      <Name>Sprites\D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\D.xnb</Output>
+      <Time>2011-08-09T08:08:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\E.jpg</Source>
+      <Name>Sprites\E</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\E.xnb</Output>
+      <Time>2011-08-09T08:09:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\F.jpg</Source>
+      <Name>Sprites\F</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\F.xnb</Output>
+      <Time>2011-08-09T08:09:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\G.jpg</Source>
+      <Name>Sprites\G</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\G.xnb</Output>
+      <Time>2011-08-09T08:09:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\H.jpg</Source>
+      <Name>Sprites\H</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\H.xnb</Output>
+      <Time>2011-08-09T08:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\I.jpg</Source>
+      <Name>Sprites\I</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\I.xnb</Output>
+      <Time>2011-08-09T08:11:02-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\J.jpg</Source>
+      <Name>Sprites\J</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\J.xnb</Output>
+      <Time>2011-08-09T08:11:34-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\K.jpg</Source>
+      <Name>Sprites\K</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\K.xnb</Output>
+      <Time>2011-08-09T08:11:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\L.jpg</Source>
+      <Name>Sprites\L</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\L.xnb</Output>
+      <Time>2011-08-09T08:12:06-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\M.jpg</Source>
+      <Name>Sprites\M</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\M.xnb</Output>
+      <Time>2011-08-09T08:12:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\N.jpg</Source>
+      <Name>Sprites\N</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\N.xnb</Output>
+      <Time>2011-08-09T08:12:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\O.jpg</Source>
+      <Name>Sprites\O</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\O.xnb</Output>
+      <Time>2011-08-09T08:12:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\P.jpg</Source>
+      <Name>Sprites\P</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\P.xnb</Output>
+      <Time>2011-08-09T08:13:40-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Q.jpg</Source>
+      <Name>Sprites\Q</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Q.xnb</Output>
+      <Time>2011-08-09T08:13:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\R.jpg</Source>
+      <Name>Sprites\R</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\R.xnb</Output>
+      <Time>2011-08-09T08:14:06-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\S.jpg</Source>
+      <Name>Sprites\S</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\S.xnb</Output>
+      <Time>2011-08-09T08:14:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\T.jpg</Source>
+      <Name>Sprites\T</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\T.xnb</Output>
+      <Time>2011-08-09T08:15:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\U.jpg</Source>
+      <Name>Sprites\U</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\U.xnb</Output>
+      <Time>2011-08-09T08:15:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\V.jpg</Source>
+      <Name>Sprites\V</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\V.xnb</Output>
+      <Time>2011-08-09T08:15:46-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\W.jpg</Source>
+      <Name>Sprites\W</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\W.xnb</Output>
+      <Time>2011-08-09T08:16:02-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\X.jpg</Source>
+      <Name>Sprites\X</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\X.xnb</Output>
+      <Time>2011-08-09T08:16:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Y.jpg</Source>
+      <Name>Sprites\Y</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Y.xnb</Output>
+      <Time>2011-08-09T08:16:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Z.jpg</Source>
+      <Name>Sprites\Z</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\Z.xnb</Output>
+      <Time>2011-08-09T08:17:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MaleHumanDown.png</Source>
+      <Name>Sprites\MaleHumanDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\MaleHumanDown.xnb</Output>
+      <Time>2010-05-25T23:06:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MaleHumanRight.png</Source>
+      <Name>Sprites\MaleHumanRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\MaleHumanRight.xnb</Output>
+      <Time>2010-05-25T23:06:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MaleHumanUp.png</Source>
+      <Name>Sprites\MaleHumanUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\Sprites\MaleHumanUp.xnb</Output>
+      <Time>2010-05-25T23:06:38-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Justin\Documents\Visual Studio 2010\Projects\Beren Project\Beren\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-24T21:17:06.5265908-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
