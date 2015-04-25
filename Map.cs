@@ -1,6 +1,7 @@
 ﻿/* 
  * Contains all of the specified map's
  * GameObjects and its width and height.
+ * 
  */
 
 using System;
